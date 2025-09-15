@@ -1,2 +1,1 @@
-# Heart-Disease-Analysis-Dashboard-This-Power-BI-project
-📊 Data Analyst | Python, SQL, Excel, Power BI,  | Skilled in data cleaning, visualization, and reporting. Passionate about turning raw data into actionable insights to help businesses make data-driven decisions. Always learning advanced analytics &amp; machine learning.
+Heart disease is one of the leading causes of death worldwide. Healthcare professionals and researchers face challenges in analyzing large volumes of patient data to identify patterns, risk factors, and key indicators that contribute to heart disease. The unorganized and complex nature of medical data makes it difficult to draw actionable insights in real time, which delays preventive measures and critical decision-making.
